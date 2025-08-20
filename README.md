@@ -1,3 +1,10 @@
+📌 **Apresentação**
+
+Este projeto tem como objetivo analisar a evasão de clientes (churn) em uma empresa de telecomunicações.
+A partir de um conjunto de dados reais de clientes, foram realizadas etapas de exploração, tratamento, modelagem preditiva e geração de insights de negócio, buscando identificar os principais fatores que levam um cliente a cancelar o serviço.
+
+O trabalho combina análise estatística, visualizações e algoritmos de machine learning para prever a probabilidade de churn e propor recomendações que auxiliem na retenção e fidelização de clientes.
+
 1. **Introdução**
 
 - Contextualização do desafio (Telecom, evasão de clientes).
